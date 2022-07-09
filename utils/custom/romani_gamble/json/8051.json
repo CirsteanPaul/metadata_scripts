@@ -1,0 +1,7 @@
+{
+  "name": "Shares #8051",
+  "description": "Hello world!",
+  "image": "placeholder/8051.png",
+  "edition": 8051,
+  "compiler": "vladcondurat"
+}
